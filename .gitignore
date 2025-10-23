@@ -1,0 +1,19 @@
+# Виртуальное окружение
+venv/
+.env
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+
+# IDE
+.idea/
+.vscode/
+*.sublime-*
+
+# ОС
+.DS_Store
+Thumbs.db
